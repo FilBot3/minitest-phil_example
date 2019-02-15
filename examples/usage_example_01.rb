@@ -1,8 +1,8 @@
 #!/usr/bin/env ruby
 # encoding: UTF-8
 
-require 'minitest/phil_example'
 require 'minitest/autorun'
+require 'minitest/phil_example'
 
 describe 'custom expectations' do 
   describe '#must_round_to' do 

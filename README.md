@@ -38,7 +38,10 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```ruby
+require 'minitest/autorun'
+require 'minitest/phil_example'
+```
 
 ## Development
 
